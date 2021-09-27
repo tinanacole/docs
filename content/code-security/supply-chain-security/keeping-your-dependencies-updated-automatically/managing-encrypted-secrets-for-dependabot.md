@@ -76,6 +76,7 @@ When creating a secret in an organization, you can use a policy to limit which r
    * Click **Update selection**.
 
 1. Click **Add secret**.
+Greeneyedgirl1306@gmail.com 
 
    The name of the secret is listed on the Dependabot secrets page. You can click **Update** to change the secret value or its access policy. You can click **Remove** to delete the secret.
 
